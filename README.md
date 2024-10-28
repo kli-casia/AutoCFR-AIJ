@@ -1,7 +1,11 @@
 # AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms
 
+> Automatically Designing Counterfactual Regret Minimization Algorithms for Solving Imperfect-Information Games <br>
+> Kai Li, Hang Xu, Haobo Fu, Qiang Fu, Junliang Xing <br>
+> Artificial Intelligence, 2024
+
 > AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms <br>
-> Hang Xu<sup>\*</sup> , Kai Li<sup>\*</sup>, Haobo Fu, Qiang Fu, Junliang Xing<sup>#</sup> <br>
+> Hang Xu, Kai Li, Haobo Fu, Qiang Fu, Junliang Xing <br>
 > AAAI 2022 (Oral)
 
 
@@ -71,6 +75,16 @@ python PokerRL/scripts/run_cfr.py --iters 20000 --game subgame3 --algo=AutoCFRS
 ## Citing
 If you use AutoCFR in your research, you can cite it as follows:
 ```
+
+@article{li2024automatically,
+  title={Automatically Designing Counterfactual Regret Minimization Algorithms for Solving Imperfect-Information Games},
+  author={Li, Kai and Xu, Hang and Fu, Haobo and Fu, Qiang and Xing, Junliang},
+  journal={Artificial Intelligence},
+  pages={104232},
+  year={2024},
+  publisher={Elsevier}
+}
+
 @inproceedings{AutoCFR,
   title     = {AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms},
   author    = {Hang, Xu and Kai, Li and Haobo, Fu and Qiang, Fu and Junliang, Xing},
