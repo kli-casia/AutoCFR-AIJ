@@ -1,4 +1,4 @@
-# AutoCFR: Learning to Design Counterfactual Regret Minimization Algorithms
+# AutoCFR
 
 > Automatically Designing Counterfactual Regret Minimization Algorithms for Solving Imperfect-Information Games <br>
 > Kai Li, Hang Xu, Haobo Fu, Qiang Fu, Junliang Xing <br>
